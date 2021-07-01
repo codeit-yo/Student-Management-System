@@ -1,0 +1,2 @@
+# StudentCrud
+ Student Management System

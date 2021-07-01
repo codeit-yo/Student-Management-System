@@ -1,0 +1,60 @@
+h1, h2{
+    color: #C1839F;
+    text-transform: uppercase;
+}
+
+h1{
+    font-size: 40px;
+}
+
+nav{
+    background-color: #087e8b;
+    padding: 0px;
+    margin: 20px 0px;
+}
+
+
+a{
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    display: inline-block;
+    background-color: #087e8b;
+}
+
+a:hover{
+    background-color: #3c3c3c;
+}
+
+table{
+    background-color: whitesmoke;
+    
+}
+
+td{
+    text-align: right;
+    font-weight: bold;
+}
+
+.dis{
+    text-align: center;
+    font-weight: normal;
+}
+
+input[type=submit]{
+    background: #087e8b;
+    color: white;
+    border-radius: 10px;
+    width: 100%;
+    height: 50px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+input[type=text]{
+    padding: 5px;
+}
+
+
