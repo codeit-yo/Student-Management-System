@@ -4,10 +4,10 @@
     Author     : yoliv
 --%>
 
+<%@page import="com.tta.model.MyConnection"%>
 <%@page import="java.sql.Connection"%>
 <%@page import="java.sql.Statement" %>
 <%@page import="java.sql.ResultSet" %>
-<%@page import="com.tta.model.MyConnection"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
